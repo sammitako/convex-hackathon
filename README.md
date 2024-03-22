@@ -2,7 +2,7 @@
 
 Have you ever wondered where everyone is or what they're doing, especially when trying to organize a group lunch or dinner? Our solution streamlines this process, enabling you to effortlessly view your friends', colleagues', or family members' schedules.
 
-Introducing Weg, the ultimate scheduling sharing application that simplifies planning:
+Introducing WEG(Where's Everybody Going), the ultimate scheduling sharing application that simplifies planning:
 
 - Secure Authentication: Safely access your account and protect your personal information.
 - Seamless Schedule Management: Create, edit, and delete your personal schedules with ease.
