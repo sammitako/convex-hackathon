@@ -10,3 +10,7 @@ Introducing WEG(Where's Everybody Going), the ultimate scheduling sharing applic
 - With WEG, staying connected and organizing gatherings has never been easier. Say goodbye to back-and-forth messaging and hello to streamlined, hassle-free planning.
 
 ![prototype](https://github.com/sammitako/convex-hackathon/blob/1f5f73b00c7881deaafdc39ccf59eea244b86adf/assets/images/WEG.jpg)
+
+## Improvements
+
+- Failed to integrate clerk to convex and react native
